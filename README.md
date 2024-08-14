@@ -1,4 +1,4 @@
-# PROJECTNAME
+# Exploitation of a Web Application: Buffer Overflow and Python as Attack Vectors
 
 ## Objective
 
@@ -12,7 +12,6 @@ summary, this project highlights the need to implement and maintain robust secur
 in web application development to prevent cyber attacks
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
 - Vulnerability Discovery Automation.
 - Security Automation with Python.
